@@ -1,0 +1,13 @@
+p {
+color: red;
+height: 22px;
+width:22px;
+wrap: no-wrap;
+flex-grow:0;
+}
+.tag{
+    height:20;
+    color:red;
+    display:flex;
+    text-align: center;
+}
